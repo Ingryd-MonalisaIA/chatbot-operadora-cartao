@@ -1,0 +1,132 @@
+frase,categoria
+quem é você,quem_sou
+quem é vc,quem_sou
+quem você é,quem_sou
+me diga quem é você,quem_sou
+pode me dizer quem você é,quem_sou
+quem é o bot,quem_sou
+o que você é,quem_sou
+me fala quem você é,quem_sou
+quem é você exatamente,quem_sou
+você é quem,quem_sou
+com quem eu falo,quem_sou
+bom dia,saudacao
+boa tarde,saudacao
+boa noite,saudacao
+oi,saudacao
+olá,saudacao
+e aí,saudacao
+tudo bem,saudacao
+como vai,saudacao
+fala bot,saudacao
+oi tudo bem,saudacao
+qual é o limite do meu cartão,limite
+quanto tenho de limite disponível,limite
+meu limite foi reduzido,limite
+quero aumentar meu limite,limite
+como aumentar o limite do cartão,limite
+qual meu limite de crédito,limite
+meu limite foi bloqueado,limite
+limite insuficiente para compra,limite
+como consultar meu limite,limite
+quero saber meu limite atual,limite
+quando vence minha fatura,fatura
+qual o valor da minha fatura,fatura
+não consigo pagar a fatura,fatura
+minha fatura está errada,fatura
+como pagar a fatura do cartão,fatura
+quero segunda via da fatura,fatura
+fatura do mês passado,fatura
+data de vencimento da fatura,fatura
+fatura em aberto,fatura
+valor mínimo da fatura,fatura
+meu cartão foi bloqueado,bloqueio
+quero bloquear meu cartão,bloqueio
+como desbloquear o cartão,bloqueio
+cartão bloqueado por suspeita de fraude,bloqueio
+perdi meu cartão quero bloquear,bloqueio
+cartão não está funcionando,bloqueio
+como bloquear cartão pelo app,bloqueio
+cartão bloqueado o que fazer,bloqueio
+desbloqueio do cartão novo,bloqueio
+cartão temporariamente bloqueado,bloqueio
+meu cartão foi clonado,fraude
+compra que não reconheço na fatura,fraude
+transação suspeita no cartão,fraude
+como contestar uma compra,fraude
+fui vítima de fraude no cartão,fraude
+alguém usou meu cartão sem autorização,fraude
+compra não autorizada,fraude
+como reportar fraude no cartão,fraude
+transação desconhecida na fatura,fraude
+cartão usado indevidamente,fraude
+como usar o cartão no exterior,internacional
+meu cartão funciona fora do brasil,internacional
+taxa de câmbio do cartão,internacional
+habilitar cartão para uso internacional,internacional
+ativar compras internacionais,internacional
+como pagar em dólar com o cartão,internacional
+cartão aceito no exterior,internacional
+viagem ao exterior como usar cartão,internacional
+compras em outros países,internacional
+converter moeda no cartão,internacional
+como acumular pontos,pontos
+quantos pontos tenho,pontos
+como resgatar pontos,pontos
+pontos expirando,pontos
+programa de recompensas,pontos
+trocar pontos por milhas,pontos
+pontos por compra,pontos
+validade dos pontos,pontos
+como transferir pontos,pontos
+extrato de pontos,pontos
+qual a taxa de juros do cartão,juros
+juros da fatura em atraso,juros
+como evitar juros no cartão,juros
+taxa de juros do rotativo,juros
+parcela mínima e juros,juros
+encargos por atraso no pagamento,juros
+como calcular os juros,juros
+juros cobrados indevidamente,juros
+taxa do parcelamento,juros
+juros por não pagar fatura,juros
+como cancelar meu cartão,cancelamento
+quero encerrar minha conta,cancelamento
+procedimento para cancelar cartão,cancelamento
+cancelamento do cartão de crédito,cancelamento
+como solicitar cancelamento,cancelamento
+cancelar cartão pelo telefone,cancelamento
+prazo para cancelamento,cancelamento
+devolução de anuidade após cancelamento,cancelamento
+cancelar cartão adicional,cancelamento
+encerrar conta de crédito,cancelamento
+anuidade do cartão,anuidade
+como isentar a anuidade,anuidade
+valor da anuidade,anuidade
+cartão sem anuidade,anuidade
+como negociar anuidade,anuidade
+cobrança indevida de anuidade,anuidade
+anuidade cobrada errada,anuidade
+como cancelar anuidade,anuidade
+isenção de anuidade por gastos,anuidade
+anuidade parcelada,anuidade
+como solicitar um novo cartão,novo_cartao
+cartão adicional para dependente,novo_cartao
+prazo para receber o cartão,novo_cartao
+cartão virtual,novo_cartao
+como pedir cartão de crédito,novo_cartao
+segunda via do cartão,novo_cartao
+cartão foi extraviado,novo_cartao
+cartão não chegou pelos correios,novo_cartao
+solicitar cartão adicional,novo_cartao
+cartão danificado preciso de novo,novo_cartao
+senha do cartão incorreta,senha
+esqueci minha senha,senha
+como trocar a senha do cartão,senha
+desbloquear cartão após senha errada,senha
+alterar senha do cartão,senha
+criar senha para cartão novo,senha
+senha bloqueada por tentativas,senha
+como redefinir senha,senha
+trocar pin do cartão,senha
+senha do cartão não funciona,senha

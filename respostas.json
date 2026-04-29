@@ -1,0 +1,27 @@
+{
+  "quem_sou": "Eu sou o Assistente Virtual. Meu trabalho é facilitar sua vida!",
+  
+  "saudacao": "Olá! Tudo ótimo por aqui, pronto para te ajudar com seu cartão. Como posso ajudar?",
+    
+  "limite": "Seu limite de crédito pode ser consultado pelo app, site ou ligando para o número no verso do cartão. Para solicitar aumento de limite, acesse sua conta e vá em 'Limite e Fatura' → 'Solicitar aumento'. O limite disponível é atualizado automaticamente após o pagamento da fatura.",
+
+  "fatura": "Sua fatura vence todo mês na data acordada no contrato. Você pode consultar, baixar a segunda via e pagar pelo app ou internet banking. O pagamento mínimo evita negativação, mas gera juros rotativos. Para não pagar juros, quite sempre o valor total da fatura.",
+
+  "bloqueio": "Para bloquear seu cartão imediatamente, acesse o app e vá em 'Meu Cartão' → 'Bloquear'. Para desbloquear um cartão novo, acesse 'Desbloquear Cartão' e siga as instruções. Em caso de perda ou roubo, ligue para a central 24h no verso do cartão para bloqueio emergencial.",
+
+  "fraude": "Em caso de fraude ou compra não reconhecida, bloqueie o cartão imediatamente pelo app e entre em contato com nossa central. Você pode contestar transações em até 90 dias pelo app em 'Fatura' → 'Contestar Compra'. Nossa equipe investigará e, se confirmada fraude, o valor será estornado em até 10 dias úteis.",
+
+  "internacional": "Para usar o cartão no exterior, habilite as compras internacionais pelo app em 'Configurações' → 'Compras Internacionais'. As transações são convertidas pela cotação do dólar americano (ou outra moeda) com acréscimo do IOF de 6,38%. Recomendamos avisar o banco antes de viajar para evitar bloqueios por segurança.",
+
+  "pontos": "Você acumula 1 ponto a cada R$1,00 gasto em compras nacionais e 2 pontos por dólar em compras internacionais. Os pontos têm validade de 24 meses e podem ser resgatados por passagens aéreas, produtos ou cashback. Consulte seu saldo e resgate no app em 'Recompensas'.",
+
+  "juros": "A taxa de juros do rotativo é de até 12,87% ao mês (conforme contrato). Para evitar juros, pague o valor total da fatura até a data de vencimento. Em caso de parcelamento do saldo, a taxa é menor que o rotativo. Consulte as taxas atualizadas no app ou no site da operadora.",
+
+  "cancelamento": "Para cancelar seu cartão, acesse o app em 'Minha Conta' → 'Encerrar Conta', ou ligue para o número no verso do cartão. Antes de cancelar, quite eventuais saldos em aberto. O cancelamento é processado em até 2 dias úteis. Lembre-se de destruir o cartão físico após a confirmação.",
+
+  "anuidade": "A anuidade é cobrada em 12 parcelas mensais na sua fatura. É possível obter isenção total ou parcial caso você atinja o valor mínimo de gastos mensais estipulado no seu plano. Para verificar se tem direito à isenção ou negociar, acesse 'Minha Conta' → 'Anuidade' no app.",
+
+  "novo_cartao": "Para solicitar um novo cartão (segunda via, adicional ou por extravio), acesse o app em 'Meu Cartão' → 'Solicitar Novo Cartão'. O cartão chega em até 10 dias úteis. O cartão virtual está disponível imediatamente no app para compras online enquanto o físico não chega.",
+
+  "senha": "Para redefinir sua senha, acesse o app em 'Segurança' → 'Trocar Senha do Cartão', ou utilize um caixa eletrônico da rede. Após 3 tentativas incorretas, o cartão é bloqueado por segurança. Para desbloquear, entre em contato com nossa central 24h. Nunca compartilhe sua senha com ninguém."
+}
